@@ -45,7 +45,7 @@ int main(){
 
     // Порівняти 3 числа і висзачити найбільне
 
-	int a = 0, b = 0, c = 0;
+	/*int a = 0, b = 0, c = 0;
 	cout << "Enter a => " << endl;
 	cin >> a;
 	cout << "Enter b => " << endl;
@@ -66,6 +66,21 @@ int main(){
 		cout << "a = b and b = c" <<endl;
 	}
 
-	system("pause");
+	system("pause");*/
+
+	// Дано витрати машиною пального на 100 км, ціну 1 л пального, а також шлях, 
+	// який потрібно проїхати водію.Обчислити та вивести на екран скільки потрібно витратити грошей водію,
+	// щоб проїхати вказаний шлях
+	float price = 0, fuelCount = 0, distance = 0, result = 0;
+	cout << "Fuel count >> " << endl;
+	cin >> fuelCount;
+	cout << "Price >> " << endl;
+	cin >> price;
+	cout << "Distance >> " << endl;
+	cin >> distance;
+
+	result = (fuelCount * price * distance) / 100;
+	cout << "Result = " << result << endl;
+
 	return 0;
 }
