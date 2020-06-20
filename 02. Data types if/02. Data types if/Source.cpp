@@ -71,7 +71,7 @@ int main(){
 	// Дано витрати машиною пального на 100 км, ціну 1 л пального, а також шлях, 
 	// який потрібно проїхати водію.Обчислити та вивести на екран скільки потрібно витратити грошей водію,
 	// щоб проїхати вказаний шлях
-	float price = 0, fuelCount = 0, distance = 0, result = 0;
+	/*float price = 0, fuelCount = 0, distance = 0, result = 0;
 	cout << "Fuel count >> " << endl;
 	cin >> fuelCount;
 	cout << "Price >> " << endl;
@@ -80,7 +80,9 @@ int main(){
 	cin >> distance;
 
 	result = (fuelCount * price * distance) / 100;
-	cout << "Result = " << result << endl;
+	cout << "Result = " << result << endl;*/
+
+
 
 	return 0;
 }

@@ -1,2 +1,15 @@
 ﻿  Source.cpp
-  02. Data types if.vcxproj -> C:\Users\macnaer\Desktop\CBD022\02. Data types if\Debug\02. Data types if.exe
+c:\users\macnaer\desktop\cbd022\02. data types if\02. data types if\source.cpp(85): error C2065: DayPeriod2: необъявленный идентификатор
+c:\users\macnaer\desktop\cbd022\02. data types if\02. data types if\source.cpp(85): error C2065: DayPeriod3: необъявленный идентификатор
+c:\users\macnaer\desktop\cbd022\02. data types if\02. data types if\source.cpp(87): error C2065: first: необъявленный идентификатор
+c:\users\macnaer\desktop\cbd022\02. data types if\02. data types if\source.cpp(87): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "DayPeriod"
+c:\users\macnaer\desktop\cbd022\02. data types if\02. data types if\source.cpp(87): error C2065: DayPeriod: необъявленный идентификатор
+c:\users\macnaer\desktop\cbd022\02. data types if\02. data types if\source.cpp(89): error C2065: secondDayPeriod: необъявленный идентификатор
+c:\users\macnaer\desktop\cbd022\02. data types if\02. data types if\source.cpp(91): error C2065: third: необъявленный идентификатор
+c:\users\macnaer\desktop\cbd022\02. data types if\02. data types if\source.cpp(91): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "DayPeriod"
+c:\users\macnaer\desktop\cbd022\02. data types if\02. data types if\source.cpp(91): error C2065: DayPeriod: необъявленный идентификатор
+c:\users\macnaer\desktop\cbd022\02. data types if\02. data types if\source.cpp(95): error C2065: DayPeriod2: необъявленный идентификатор
+c:\users\macnaer\desktop\cbd022\02. data types if\02. data types if\source.cpp(98): error C2059: синтаксическая ошибка: else
+c:\users\macnaer\desktop\cbd022\02. data types if\02. data types if\source.cpp(98): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\users\macnaer\desktop\cbd022\02. data types if\02. data types if\source.cpp(101): error C2059: синтаксическая ошибка: else
+c:\users\macnaer\desktop\cbd022\02. data types if\02. data types if\source.cpp(101): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
